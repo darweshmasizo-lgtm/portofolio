@@ -56,5 +56,13 @@ html{
     opacity: 0.9;
 }
 
-
+.person-name{
+    font-size: 2rem;
+    color: #fff;
+    background-color: #e41c6f;
+    margin: 5rem o;
+    padding: 0.5rem 3rem;
+    letter-spacing: 0.3rem;
+    transform: skew(-10deg);
+}
 /* end of section 1 */
