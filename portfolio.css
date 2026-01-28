@@ -93,7 +93,23 @@ html{
 
 }
 
-.navbar-link
+.navbar-link{
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #333;
+    margin: 0 3rem;
+    letter-spacing: .3rem;
+    text-transform: uppercase;
+}
+
+.navbar-link::before{
+    content: "";
+    width: 130%;
+    height: 0.2rem;
+    background-color: #fff;
+    position: absolute;
+    right: -15%;
+}
 /* end ofnavbar */
 
 
