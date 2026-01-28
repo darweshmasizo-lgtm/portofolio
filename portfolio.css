@@ -173,5 +173,12 @@ html{
     margin: 0 0.5rem;
     font-size: 1.8rem;
     font-weight: 700;
-    
+
+}
+
+.progress-percent{
+    width: 90%;
+    height: 100%;
+    background-color: #e41c6f;
+    border-radius: 0.3rem;
 }
