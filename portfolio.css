@@ -209,7 +209,15 @@ html{
 }
 
 
-
+.service h2{
+    font-size: 2rem;
+    color: #fff;
+    background-color: #777;
+    width: 25rem;
+    letter-spacing: 0.3rem;
+    transform: skew(-10deg);
+    box-shadow: 0.2rem 0.2rem 0.5rem #555;
+}
 
 
 
