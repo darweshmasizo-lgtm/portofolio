@@ -100,15 +100,22 @@ html{
     margin: 0 3rem;
     letter-spacing: .3rem;
     text-transform: uppercase;
+    position: relative;
 }
 
 .navbar-link::before{
     content: "";
-    width: 130%;
+    width: 0;
     height: 0.2rem;
     background-color: #fff;
     position: absolute;
     right: -15%;
+    bottom: -0.3rem;
+    
+}
+
+.navbar-link::before{
+
 }
 /* end ofnavbar */
 
