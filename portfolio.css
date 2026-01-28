@@ -148,4 +148,15 @@ html{
     text-shadow: 0.2rem 0.2rem 0.5rem #555;
 }
 
+.progress-bar-wrapper{
+    margin-bottom: 10rem;
+}
 
+.pregress-bar{
+    width: 60rem;
+    height: 3rem;
+    background-color: #ccc;
+    margin: 1.5rem 0;
+    border-radius: 0.3rem;
+    box-shadow: 0.2rem 0.2rem 1rem #555;
+}
