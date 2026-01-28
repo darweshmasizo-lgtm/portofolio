@@ -101,6 +101,11 @@ html{
     letter-spacing: .3rem;
     text-transform: uppercase;
     position: relative;
+    transition: color 0.2s;
+}
+
+.navbar-link:hover{
+    color: #fff;
 }
 
 .navbar-link::before{
@@ -111,11 +116,12 @@ html{
     position: absolute;
     right: -15%;
     bottom: -0.3rem;
-    
+    transition: width o.2s ;
+
 }
 
-.navbar-link::before{
-
+.navbar-link:hover::before{
+    width: 130%;
 }
 /* end ofnavbar */
 
