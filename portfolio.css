@@ -238,15 +238,27 @@ align-self: flex-start;
 }
 
 
-.project-wrapper{
+.projects-wrapper{
     width: 80%;
     flex-wrap: wrap;
      
 }
 
 .project{
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    background-color: #fff;
+    box-shadow: 0.3rem 0.3rem 0.5rem #777;
 }
+
+.progress-text{
+    text-align: center;
+    letter-spacing: 0.1rem;
+}
+
+.person-name
 
 /* end of section 3 */
 
