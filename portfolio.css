@@ -266,8 +266,16 @@ align-self: flex-start;
 }
 
 .project-technologies{
-    
+    font-size: 1.8rem;
+    color: #e41c6f;
+
 }
+
+.project-img{
+    width: 40rem;
+}
+
+
 
 /* end of section 3 */
 
