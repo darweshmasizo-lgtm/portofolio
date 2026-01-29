@@ -277,6 +277,11 @@ align-self: flex-start;
 
 .project-img{
     width: 40rem;
+    transition: opacity 0.3s;
+}
+
+.project:hover .project-img{
+    opacity: 0.2;
 }
 
 .project-link{
@@ -289,13 +294,16 @@ align-self: flex-start;
     background-color: #fff;
     position: absolute;
     bottom: -5rem;
+    transition: bottom 0.3rem;
 }
 
 .project:hover .project-text{
     top: 5rem;
 }
 
-.pro
+.project:hover .project-link{
+bottom: 5rem;
+}
 
 
 /* end of section 3 */
