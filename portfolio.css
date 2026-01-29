@@ -196,7 +196,13 @@ html{
 .service{
 
     text-align: center;
+}
 
+
+.service:first-child,
+.service:last-child{
+
+align-self: flex-start;
 }
 
 
