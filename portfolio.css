@@ -253,12 +253,17 @@ align-self: flex-start;
     box-shadow: 0.3rem 0.3rem 0.5rem #777;
 }
 
-.progress-text{
+.project-text{
     text-align: center;
     letter-spacing: 0.1rem;
 }
 
-.person-name
+.project-name{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #333;
+    text-transform: capitalize;
+}
 
 /* end of section 3 */
 
