@@ -92,7 +92,11 @@ html{
     box-shadow: 0.2ram 0.2rem 0.5rem #555;
 
 }
+ 
 
+.sticky{
+    
+}
 .navbar-link{
     font-size: 1.7rem;
     font-weight: 700;
@@ -400,6 +404,11 @@ transition: bottom 0.3s 0.3s;
 }
 
 .copyright{
-    
+    color: #aaa;
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+    font-weight: 300;
+    text-align: center;
+
 }
 /* end of section 5 */
