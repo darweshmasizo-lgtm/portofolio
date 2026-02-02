@@ -95,8 +95,12 @@ html{
  
 
 .sticky{
-    
+    position: fixed;
+    top: 0;
+
 }
+
+
 .navbar-link{
     font-size: 1.7rem;
     font-weight: 700;
