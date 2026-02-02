@@ -391,7 +391,15 @@ transition: bottom 0.3s 0.3s;
     padding: 0.7rem;
     background-color: #e41c6f;
     border-radius: 0.5rem;
+    display: inline-block;
 }
 
-.social-media-link i{}
+.social-media-link i{
+    font-size: 3rem;
+    color: #fff;
+}
+
+.copyright{
+    
+}
 /* end of section 5 */
