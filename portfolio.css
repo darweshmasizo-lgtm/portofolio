@@ -364,7 +364,13 @@ transition: bottom 0.3s 0.3s;
     max-width: 100%;
 }
 
-.contact-form .contact-form-btn{}
+.contact-form .contact-form-btn{
+    background-color: #e41c6f;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    cursor: pointer;
+}
 /* end of section 4 */
 
 
