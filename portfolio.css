@@ -387,6 +387,11 @@ transition: bottom 0.3s 0.3s;
 }
 
 .social-media-link{
-    
+    margin: 0 2rem;
+    padding: 0.7rem;
+    background-color: #e41c6f;
+    border-radius: 0.5rem;
 }
+
+.social-media-link i{}
 /* end of section 5 */
