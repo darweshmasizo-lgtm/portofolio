@@ -334,7 +334,13 @@ transition: bottom 0.3s 0.3s;
     justify-content: space-evenly;
 }
 
-.section-4-heading
+.section-4-heading{
+    color: #fff;
+    box-shadow: none;
+    border-radius: #fff;
+}
+
+.contact-form{}
 /* end of section 4 */
 
 
