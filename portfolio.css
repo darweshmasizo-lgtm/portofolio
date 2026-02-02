@@ -116,6 +116,7 @@ html{
 }
 
 .change .navbar-link{
+    color: #fff;
     
 }
 
@@ -135,6 +136,10 @@ html{
     bottom: -0.3rem;
     transition: width o.2s ;
 
+}
+
+.change .navbar-link::before{
+    width: 130%;
 }
 
 .navbar-link:hover::before{
