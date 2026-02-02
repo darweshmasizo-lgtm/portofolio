@@ -347,6 +347,18 @@ transition: bottom 0.3s 0.3s;
 
 .contact-form input,
 .contact-form textarea{
+    width: 100%;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    background-color: #eef;
+    font-size: 1.5rem;
+    border: 0.2rem solid #e41c6f;
+    color: #555;
+
+
+}
+
+.contact-form textarea{
     
 }
 /* end of section 4 */
