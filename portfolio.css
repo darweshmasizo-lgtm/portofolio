@@ -359,8 +359,12 @@ transition: bottom 0.3s 0.3s;
 }
 
 .contact-form textarea{
-    
+    height: 10rem;
+    max-height: 15rem;
+    max-width: 100%;
 }
+
+.contact-form .contact-form-btn{}
 /* end of section 4 */
 
 
