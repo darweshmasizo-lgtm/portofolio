@@ -340,7 +340,15 @@ transition: bottom 0.3s 0.3s;
     border-radius: #fff;
 }
 
-.contact-form{}
+.contact-form{
+    width: 50rem;
+    flex-direction: column;
+}
+
+.contact-form input,
+.contact-form textarea{
+    
+}
 /* end of section 4 */
 
 
