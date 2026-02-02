@@ -12,5 +12,9 @@ window.addEventListener("scroll",() =>{
     }else{
         navbar.classList.remove("sticky");
     }
+
+    sections.forEach(section =>{
+        
+    })
         
 })
