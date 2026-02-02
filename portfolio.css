@@ -383,6 +383,10 @@ transition: bottom 0.3s 0.3s;
 }
 
 .social-media{
+    margin-bottom: 5rem;
+}
+
+.social-media-link{
     
 }
 /* end of section 5 */
