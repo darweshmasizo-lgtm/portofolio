@@ -115,6 +115,12 @@ html{
     transition: color 0.2s;
 }
 
+.change .navbar-link{
+    
+}
+
+
+
 .navbar-link:hover{
     color: #fff;
 }
